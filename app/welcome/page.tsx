@@ -1,3 +1,4 @@
+"use client"
 import {useUser, useRedirectFunctions, useLogoutFunction} from "@propelauth/nextjs/client";
 
 const WelcomeMessage = () => {
