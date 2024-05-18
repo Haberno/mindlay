@@ -22,4 +22,5 @@ const WelcomeMessage = () => {
         </div>
     }
 }
+
 export default WelcomeMessage
